@@ -5,7 +5,6 @@
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and Flutter and For Server Side, Express, GraphQL, and Spring Boot.
 
-* 🔭 I’m currently working with <a href="https://www.tcs.com/">Tata Consultancy Services</a>
 * 🌱 I’m learning Devops and Building Cost-Effective Systems.
 * 📫 Sharing updates and writing stuff on <a href="https://www.quora.com/profile/Ram-Simran-Garimella">Quora</a>.
 
