@@ -3,7 +3,7 @@
 <img src="https://github.com/rgarimella0124/rgarimella0124/blob/master/intro.png?raw=true" alt="Banner inrtroduces ram">
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and Flutter and For Server Side, Express, GraphQL, and Spring Boot.
+Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and For Server Side, Express, GraphQL, and Python.
 
 * 🌱 I’m learning Devops and Building Cost-Effective Systems.
 * 📫 Sharing updates and writing stuff on <a href="https://www.quora.com/profile/Ram-Simran-Garimella">Quora</a>.
