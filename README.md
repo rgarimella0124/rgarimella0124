@@ -1,5 +1,7 @@
 # Hi, I'm Ram 👋 👨‍💻
 
+![My Image](intro.png)
+
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and For Server Side, Express, GraphQL, and Python.
