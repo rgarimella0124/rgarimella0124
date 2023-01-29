@@ -1,0 +1,22 @@
+{
+  "name": "rgarimella0124",
+  "version": "1.0.0",
+  "description": "Github Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgarimella0124/rgarimella0124.git"
+  },
+  "author": "Ram Simran Garimella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgarimella0124/rgarimella0124/issues"
+  },
+  "homepage": "https://github.com/rgarimella0124/rgarimella0124#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

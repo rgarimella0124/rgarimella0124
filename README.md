@@ -1,16 +1,12 @@
-# Hi, I'm Ram 👋 👨‍💻
-
-![My Image](intro.png)
-
+<img src="https://drive.google.com/uc?export=view&id=1HDYr7Pdm_f-zrTIJ4ozRJFFSVwX6mo7w" alt="Banner inrtroduces ram">
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and For Server Side, Express, GraphQL, and Python.
 
-* 🌱 I’m learning Devops and Building Cost-Effective Systems.
-* 📫 Sharing updates and writing stuff on <a href="https://www.quora.com/profile/Ram-Simran-Garimella">Quora</a>.
+- 🌱 I’m learning Devops and Building Cost-Effective Systems.
+- 📫 Sharing updates and writing stuff on <a href="https://www.quora.com/profile/Ram-Simran-Garimella">Quora</a>.
 
 <br>
-
 
 <h2>Tech Stack 💻</h2>
 
@@ -38,7 +34,6 @@ Some technologies I enjoy working with include ReactJS, Mobile Applications with
   
 </p>
 
-
 <h2>GitHub Analytics ⚙️</h2>
 
 <p align="center">
@@ -51,9 +46,6 @@ Some technologies I enjoy working with include ReactJS, Mobile Applications with
 </p>
 </p>
 
-
-
-
 ## Profile Views
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=rgarimella0124&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Ahmed Tariq" /> <h2>
@@ -63,6 +55,5 @@ Some technologies I enjoy working with include ReactJS, Mobile Applications with
 <h3 align="center">
 <a href="https://www.linkedin.com/in/rgarimella0124/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/rgarimella0124" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
-
 
 <h3 align="justify">Feel free to send me a connection request</h3>
