@@ -1,6 +1,5 @@
 # Hi, I'm Ram 👋 👨‍💻
 
-<img src="https://github.com/rgarimella0124/rgarimella0124/blob/master/intro.png?raw=true" alt="Banner inrtroduces ram">
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Mobile Applications with React-Native and For Server Side, Express, GraphQL, and Python.
@@ -46,9 +45,12 @@ Some technologies I enjoy working with include ReactJS, Mobile Applications with
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rgarimella0124&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rgarimella0124&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rgarimella0124&theme=nord&no-frame=true&margin-w=10&column=7" />
 </p>
 </p>
-  
+
+
+
 
 ## Profile Views
 
