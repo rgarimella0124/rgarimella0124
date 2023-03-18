@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/uc?export=view&id=1HDYr7Pdm_f-zrTIJ4ozRJFFSVwX6mo7w" alt="Banner inrtroduces ram">
-
 I'm a software developer who is enthusiastic about making open-source more accessible, developing technologies to help people, and fostering community. ReactJS, Mobile Applications using React-Native, and For Server Side, Express, GraphQL, and Python are some of the technologies I like working with.
 
 - 🌱 I’m learning Devops and Building Cost-Effective Systems.
