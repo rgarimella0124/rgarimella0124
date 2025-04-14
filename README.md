@@ -8,7 +8,7 @@ Beyond my technical expertise, I'm enthusiastic about making open-source more ac
 - 🎓 M.Tech in Software Systems, specializing in Machine Learning Systems (BITS Pilani)
 - 🌱 Continuously learning and exploring DevOps and Cost-Effective Systems
 - 📫 Sharing updates and writing on [Quora](https://www.quora.com/profile/Ram-Simran-Garimella)
-- 👥 Mentored 10+ engineers in DevOps practices and led technical initiatives across multiple projects
+- 👥 Mentored 20+ engineers in DevOps practices and led technical initiatives across multiple projects
 
 ## 💻 Technical Expertise
 
