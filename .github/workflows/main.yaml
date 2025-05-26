@@ -1,33 +1,34 @@
-name: README build
+name: Daily Commit
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: "0 2 * * *"
+    - cron: '0 6 * * *' # Runs every day at 6:00 UTC
+  workflow_dispatch:
 
 jobs:
-  build:
+  commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v3
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v3
-        with:
-          node-version: "16"
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v3
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Git user
+        run: |
+          git config user.name "rgarimella0124"
+          git config user.email "garemella.ramsimran@gmail.com"
+
+      - name: Append letter to file
+        run: |
+          echo "$(date): A" >> daily-log.md
+
+      - name: Commit changes
+        run: |
+          git add daily-log.md
+          git commit -m "chore: daily letter appended" || echo "No changes to commit"
+
+      - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git push https://x-access-token:${TOKEN}@github.com/rgarimella0124/rgarimella0124.git
