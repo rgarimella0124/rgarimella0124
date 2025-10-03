@@ -1,6 +1,6 @@
 ## Senior DevOps Engineer
 
-I'm a passionate DevOps Engineer with 6+ years of experience transforming infrastructure for Fortune 500 financial institutions and government agencies. I specialize in cloud architecture (AWS/Azure/GCP), containerization, and infrastructure automation, with a proven track record of reducing deployment times by 40-60% through innovative solutions.
+I'm a passionate DevOps Engineer with 7+ years of experience transforming infrastructure for Fortune 500 financial institutions and government agencies. I specialize in cloud architecture (AWS/Azure/GCP), containerization, and infrastructure automation, with a proven track record of reducing deployment times by 40-60% through innovative solutions.
 
 Beyond my technical expertise, I'm enthusiastic about making open-source more accessible, developing technologies to help people, and fostering community. I enjoy working with ReactJS, React Native, Express, GraphQL, and Python.
 
